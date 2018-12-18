@@ -24,6 +24,8 @@
     "sass": "^1.10.1"
   },
   "devDependencies": {
+    "babel": "^7",
+    "babel-loader": "^8.0.4",
     "autoprefixer-loader": "*",
     "babel-cli": "^6.26.0",
     "css-loader": "^0.28.6",
