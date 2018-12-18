@@ -1,0 +1,8 @@
+mongod
+
+babel-node server/app.js
+
+npm run webpack-devserver
+
+
+http://localhost:8080/notes

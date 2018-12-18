@@ -1,0 +1,12 @@
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+* {
+    font-family: sans-serif;
+}
+#mount-point {
+    display: flex;
+
+}
